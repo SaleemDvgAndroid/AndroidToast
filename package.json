@@ -1,0 +1,17 @@
+{
+  "name": "toast.android",
+  "version": "1.0.1",
+  "description": "testing plugin development",
+  "cordova": {
+    "id": "toast.android",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Saleem",
+  "license": "MIT"
+}
